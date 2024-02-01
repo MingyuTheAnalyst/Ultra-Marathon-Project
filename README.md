@@ -54,29 +54,37 @@ The big dataset of ultra-marathon running
 ### Exploration Data Analysis
 
 - Race Length Distribution: This histogram provided a basic overview of the distribution of race lengths in our dataset. It helped us understand the most common distances that athletes competed in.
+
   <img width="500" alt="Screenshot 2024-01-31 at 9 21 19 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/27f0b905-691f-4fc9-a0c2-94346a8aed53">
 
 - Race Length by Gender: By adding a hue for athlete gender, this histogram allowed us to compare the frequency of different race lengths for male and female athletes. This visual highlighted any disparities in participation between genders across different race lengths.
+
   <img width="500" alt="Screenshot 2024-01-31 at 9 22 01 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/0618c64d-0135-41ff-bf2b-cc5089be0d6f">
 
 - Speed Distribution for 50-Mile Races: This distribution plot focused on athletes who ran 50-mile races, showcasing how their average speeds varied. It was useful in understanding the range and commonality of speeds in this specific race length.
+  
   <img width="500" alt="Screenshot 2024-01-31 at 9 22 51 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/bc50ffb4-7767-49cb-bebd-7aa32000b5d2">
 
 - Average Speed by Race Length and Gender: The violin plot provided a nuanced view of the distribution of average speeds for different race lengths, split by gender. This plot was instrumental in highlighting differences in performance between male and female athletes in various race lengths.
+
   <img width="500" alt="Screenshot 2024-01-31 at 9 24 12 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/f6074150-94c7-4e14-8ef4-eb7b5e9b88f2">
 
 - Average Speed versus Age by Gender: This linear regression plot showed the relationship between athlete age and average speed, with a separate line for each gender. It helped in identifying trends and potential correlations between age and performance, differentiated by gender.
+
   <img width="500" alt="Screenshot 2024-01-31 at 9 25 25 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/2aa68feb-a6f8-4452-93c1-d31f9e85d386">
 
 - Difference in speed for the 50k, 50mi male to female
+
   <img width="352" alt="Screenshot 2024-01-31 at 9 30 01 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/3747db47-51d9-47cc-a67d-4e02bbc22bd2">
 
 - What age groups are the best or worst in the 50mi Race
   
   <img width="223" alt="Screenshot 2024-01-31 at 9 30 22 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/14c1c910-29aa-4c8a-8010-1d432fd8d3f8">
+  
   <img width="224" alt="Screenshot 2024-01-31 at 9 30 33 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/a4727c2d-24d9-409f-a13d-e7df89663921">
 
 - Difference in season
+
   <img width="226" alt="Screenshot 2024-01-31 at 9 30 49 PM" src="https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/assets/88122148/c1d445c1-65e6-44f5-8f2e-5fc4d2b5435f">
 
 
