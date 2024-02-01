@@ -18,6 +18,9 @@ The big dataset of ultra-marathon running
 - Jupyter Notebook
 
 ### Data Cleaning/Preparation
+
+[Python Code- Click!](https://github.com/MingyuTheAnalyst/Ultra-Marathon-Project/blob/main/Ultra%20Marathon%20Project.ipynb)
+
 - Show and combine 50km/51mi with isin in 2020
   ```python
   df[(df['Event distance/length'].isin(['50km','50mi'])) & (df['Year of event'] == 2020)]
