@@ -4,7 +4,6 @@
 
 In this analytical project, we look into the 'The Big Dataset of Ultra-Marathon Running' from Kaggle to explore the performances of athletes who participated in 50km and 50-mile races in the USA during 2020. Our objective is to understand how variables such as age, gender, and season impact the performance of these ultra-marathon runners.
 
-
 ### Data Sources
 The big dataset of ultra-marathon running
  - A huge collection of over 7M race records registered between 1798 and 2022
